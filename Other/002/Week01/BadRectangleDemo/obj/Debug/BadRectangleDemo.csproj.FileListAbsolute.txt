@@ -1,0 +1,7 @@
+C:\Users\npersh\Desktop\Week01\BadRectangleDemo\bin\Debug\BadRectangleDemo.exe.config
+C:\Users\npersh\Desktop\Week01\BadRectangleDemo\bin\Debug\BadRectangleDemo.exe
+C:\Users\npersh\Desktop\Week01\BadRectangleDemo\bin\Debug\BadRectangleDemo.pdb
+C:\Users\npersh\Desktop\Week01\BadRectangleDemo\obj\Debug\BadRectangleDemo.csprojAssemblyReference.cache
+C:\Users\npersh\Desktop\Week01\BadRectangleDemo\obj\Debug\BadRectangleDemo.csproj.CoreCompileInputs.cache
+C:\Users\npersh\Desktop\Week01\BadRectangleDemo\obj\Debug\BadRectangleDemo.exe
+C:\Users\npersh\Desktop\Week01\BadRectangleDemo\obj\Debug\BadRectangleDemo.pdb

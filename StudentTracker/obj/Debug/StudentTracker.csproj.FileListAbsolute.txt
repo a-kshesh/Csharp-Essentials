@@ -1,0 +1,24 @@
+C:\Users\npersh\Desktop\Week12\StudentTracker\bin\Debug\StudentTracker.exe.config
+C:\Users\npersh\Desktop\Week12\StudentTracker\bin\Debug\StudentTracker.exe
+C:\Users\npersh\Desktop\Week12\StudentTracker\bin\Debug\StudentTracker.pdb
+C:\Users\npersh\Desktop\Week12\StudentTracker\obj\Debug\StudentTracker.csprojAssemblyReference.cache
+C:\Users\npersh\Desktop\Week12\StudentTracker\obj\Debug\StudentTracker.Properties.Resources.resources
+C:\Users\npersh\Desktop\Week12\StudentTracker\obj\Debug\StudentTracker.csproj.GenerateResource.cache
+C:\Users\npersh\Desktop\Week12\StudentTracker\obj\Debug\StudentTracker.csproj.CoreCompileInputs.cache
+C:\Users\npersh\Desktop\Week12\StudentTracker\obj\Debug\StudentTracker.exe
+C:\Users\npersh\Desktop\Week12\StudentTracker\obj\Debug\StudentTracker.pdb
+C:\Users\npersh\Desktop\Week12\StudentTracker\obj\Debug\StudentTracker.FormSplash.resources
+C:\Users\npersh\Desktop\Week12\StudentTracker\obj\Debug\StudentTracker.FormAddStudent.resources
+C:\Users\npersh\Desktop\Week12\StudentTracker\obj\Debug\StudentTracker.FormMain.resources
+D:\College\SEM-1\programming language\StudentTracker\bin\Debug\StudentTracker.exe.config
+D:\College\SEM-1\programming language\StudentTracker\bin\Debug\StudentTracker.exe
+D:\College\SEM-1\programming language\StudentTracker\bin\Debug\StudentTracker.pdb
+D:\College\SEM-1\programming language\StudentTracker\obj\Debug\StudentTracker.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\StudentTracker\obj\Debug\StudentTracker.FormMain.resources
+D:\College\SEM-1\programming language\StudentTracker\obj\Debug\StudentTracker.FormAddStudent.resources
+D:\College\SEM-1\programming language\StudentTracker\obj\Debug\StudentTracker.FormSplash.resources
+D:\College\SEM-1\programming language\StudentTracker\obj\Debug\StudentTracker.Properties.Resources.resources
+D:\College\SEM-1\programming language\StudentTracker\obj\Debug\StudentTracker.csproj.GenerateResource.cache
+D:\College\SEM-1\programming language\StudentTracker\obj\Debug\StudentTracker.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\StudentTracker\obj\Debug\StudentTracker.exe
+D:\College\SEM-1\programming language\StudentTracker\obj\Debug\StudentTracker.pdb

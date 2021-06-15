@@ -1,0 +1,7 @@
+C:\Users\301087120\Desktop\Week1\DateDemo\bin\Debug\DateDemo.exe.config
+C:\Users\301087120\Desktop\Week1\DateDemo\bin\Debug\DateDemo.exe
+C:\Users\301087120\Desktop\Week1\DateDemo\bin\Debug\DateDemo.pdb
+C:\Users\301087120\Desktop\Week1\DateDemo\obj\Debug\DateDemo.csprojAssemblyReference.cache
+C:\Users\301087120\Desktop\Week1\DateDemo\obj\Debug\DateDemo.csproj.CoreCompileInputs.cache
+C:\Users\301087120\Desktop\Week1\DateDemo\obj\Debug\DateDemo.exe
+C:\Users\301087120\Desktop\Week1\DateDemo\obj\Debug\DateDemo.pdb

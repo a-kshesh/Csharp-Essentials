@@ -1,0 +1,14 @@
+C:\Users\301089027\Desktop\C#\Week3\Week3\bin\Debug\Week3.exe.config
+C:\Users\301089027\Desktop\C#\Week3\Week3\bin\Debug\Week3.exe
+C:\Users\301089027\Desktop\C#\Week3\Week3\bin\Debug\Week3.pdb
+C:\Users\301089027\Desktop\C#\Week3\Week3\obj\Debug\Week3.csproj.CoreCompileInputs.cache
+C:\Users\301089027\Desktop\C#\Week3\Week3\obj\Debug\Week3.exe
+C:\Users\301089027\Desktop\C#\Week3\Week3\obj\Debug\Week3.pdb
+C:\Users\301089027\Desktop\C#\Week3\Week3\obj\Debug\Week3.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\Week-3\Latest\Week3\Week3\bin\Debug\Week3.exe.config
+D:\College\SEM-1\programming language\Week-3\Latest\Week3\Week3\bin\Debug\Week3.exe
+D:\College\SEM-1\programming language\Week-3\Latest\Week3\Week3\bin\Debug\Week3.pdb
+D:\College\SEM-1\programming language\Week-3\Latest\Week3\Week3\obj\Debug\Week3.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\Week-3\Latest\Week3\Week3\obj\Debug\Week3.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\Week-3\Latest\Week3\Week3\obj\Debug\Week3.exe
+D:\College\SEM-1\programming language\Week-3\Latest\Week3\Week3\obj\Debug\Week3.pdb

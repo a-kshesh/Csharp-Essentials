@@ -1,0 +1,7 @@
+D:\College\SEM-1\programming language\Week-10\Linq\Linq\bin\Debug\Linq.exe.config
+D:\College\SEM-1\programming language\Week-10\Linq\Linq\bin\Debug\Linq.exe
+D:\College\SEM-1\programming language\Week-10\Linq\Linq\bin\Debug\Linq.pdb
+D:\College\SEM-1\programming language\Week-10\Linq\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\Week-10\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\Week-10\Linq\Linq\obj\Debug\Linq.exe
+D:\College\SEM-1\programming language\Week-10\Linq\Linq\obj\Debug\Linq.pdb

@@ -1,0 +1,6 @@
+D:\College\SEM-1\programming language\Week-9\WindowsDemo\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+D:\College\SEM-1\programming language\Week-9\WindowsDemo\DelegateDemo\bin\Debug\DelegateDemo.exe
+D:\College\SEM-1\programming language\Week-9\WindowsDemo\DelegateDemo\bin\Debug\DelegateDemo.pdb
+D:\College\SEM-1\programming language\Week-9\WindowsDemo\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\Week-9\WindowsDemo\DelegateDemo\obj\Debug\DelegateDemo.exe
+D:\College\SEM-1\programming language\Week-9\WindowsDemo\DelegateDemo\obj\Debug\DelegateDemo.pdb

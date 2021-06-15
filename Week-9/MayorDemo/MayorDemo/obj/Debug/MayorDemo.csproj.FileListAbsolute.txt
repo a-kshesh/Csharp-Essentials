@@ -1,0 +1,10 @@
+D:\College\SEM-1\programming language\Week-9\MayorDemo\MayorDemo\bin\Debug\MayorDemo.exe.config
+D:\College\SEM-1\programming language\Week-9\MayorDemo\MayorDemo\bin\Debug\MayorDemo.exe
+D:\College\SEM-1\programming language\Week-9\MayorDemo\MayorDemo\bin\Debug\MayorDemo.pdb
+D:\College\SEM-1\programming language\Week-9\MayorDemo\MayorDemo\obj\Debug\MayorDemo.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\Week-9\MayorDemo\MayorDemo\obj\Debug\MayorDemo.Form1.resources
+D:\College\SEM-1\programming language\Week-9\MayorDemo\MayorDemo\obj\Debug\MayorDemo.Properties.Resources.resources
+D:\College\SEM-1\programming language\Week-9\MayorDemo\MayorDemo\obj\Debug\MayorDemo.csproj.GenerateResource.cache
+D:\College\SEM-1\programming language\Week-9\MayorDemo\MayorDemo\obj\Debug\MayorDemo.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\Week-9\MayorDemo\MayorDemo\obj\Debug\MayorDemo.exe
+D:\College\SEM-1\programming language\Week-9\MayorDemo\MayorDemo\obj\Debug\MayorDemo.pdb

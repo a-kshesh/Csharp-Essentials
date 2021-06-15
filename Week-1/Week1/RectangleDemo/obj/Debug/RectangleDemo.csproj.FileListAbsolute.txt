@@ -1,0 +1,13 @@
+C:\Users\301087120\Desktop\Week1\RectangleDemo\bin\Debug\RectangleDemo.exe.config
+C:\Users\301087120\Desktop\Week1\RectangleDemo\bin\Debug\RectangleDemo.exe
+C:\Users\301087120\Desktop\Week1\RectangleDemo\bin\Debug\RectangleDemo.pdb
+C:\Users\301087120\Desktop\Week1\RectangleDemo\obj\Debug\RectangleDemo.csproj.CoreCompileInputs.cache
+C:\Users\301087120\Desktop\Week1\RectangleDemo\obj\Debug\RectangleDemo.exe
+C:\Users\301087120\Desktop\Week1\RectangleDemo\obj\Debug\RectangleDemo.pdb
+H:\Week1\RectangleDemo\bin\Debug\RectangleDemo.exe.config
+H:\Week1\RectangleDemo\bin\Debug\RectangleDemo.exe
+H:\Week1\RectangleDemo\bin\Debug\RectangleDemo.pdb
+H:\Week1\RectangleDemo\obj\Debug\RectangleDemo.csprojAssemblyReference.cache
+H:\Week1\RectangleDemo\obj\Debug\RectangleDemo.csproj.CoreCompileInputs.cache
+H:\Week1\RectangleDemo\obj\Debug\RectangleDemo.exe
+H:\Week1\RectangleDemo\obj\Debug\RectangleDemo.pdb

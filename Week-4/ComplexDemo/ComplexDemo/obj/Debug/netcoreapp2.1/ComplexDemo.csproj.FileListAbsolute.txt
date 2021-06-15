@@ -1,0 +1,11 @@
+D:\College\SEM-1\programming language\Week-4\ComplexDemo\ComplexDemo\bin\Debug\netcoreapp2.1\ComplexDemo.deps.json
+D:\College\SEM-1\programming language\Week-4\ComplexDemo\ComplexDemo\bin\Debug\netcoreapp2.1\ComplexDemo.runtimeconfig.json
+D:\College\SEM-1\programming language\Week-4\ComplexDemo\ComplexDemo\bin\Debug\netcoreapp2.1\ComplexDemo.runtimeconfig.dev.json
+D:\College\SEM-1\programming language\Week-4\ComplexDemo\ComplexDemo\bin\Debug\netcoreapp2.1\ComplexDemo.dll
+D:\College\SEM-1\programming language\Week-4\ComplexDemo\ComplexDemo\bin\Debug\netcoreapp2.1\ComplexDemo.pdb
+D:\College\SEM-1\programming language\Week-4\ComplexDemo\ComplexDemo\obj\Debug\netcoreapp2.1\ComplexDemo.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\Week-4\ComplexDemo\ComplexDemo\obj\Debug\netcoreapp2.1\ComplexDemo.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\Week-4\ComplexDemo\ComplexDemo\obj\Debug\netcoreapp2.1\ComplexDemo.AssemblyInfoInputs.cache
+D:\College\SEM-1\programming language\Week-4\ComplexDemo\ComplexDemo\obj\Debug\netcoreapp2.1\ComplexDemo.AssemblyInfo.cs
+D:\College\SEM-1\programming language\Week-4\ComplexDemo\ComplexDemo\obj\Debug\netcoreapp2.1\ComplexDemo.dll
+D:\College\SEM-1\programming language\Week-4\ComplexDemo\ComplexDemo\obj\Debug\netcoreapp2.1\ComplexDemo.pdb

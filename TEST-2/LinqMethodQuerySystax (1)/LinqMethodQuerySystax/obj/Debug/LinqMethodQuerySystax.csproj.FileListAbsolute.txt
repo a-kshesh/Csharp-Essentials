@@ -1,0 +1,7 @@
+C:\Users\301089027\Desktop\C#\LinqMethodQuerySystax\LinqMethodQuerySystax\bin\Debug\LinqMethodQuerySystax.exe.config
+C:\Users\301089027\Desktop\C#\LinqMethodQuerySystax\LinqMethodQuerySystax\bin\Debug\LinqMethodQuerySystax.exe
+C:\Users\301089027\Desktop\C#\LinqMethodQuerySystax\LinqMethodQuerySystax\bin\Debug\LinqMethodQuerySystax.pdb
+C:\Users\301089027\Desktop\C#\LinqMethodQuerySystax\LinqMethodQuerySystax\obj\Debug\LinqMethodQuerySystax.csprojAssemblyReference.cache
+C:\Users\301089027\Desktop\C#\LinqMethodQuerySystax\LinqMethodQuerySystax\obj\Debug\LinqMethodQuerySystax.csproj.CoreCompileInputs.cache
+C:\Users\301089027\Desktop\C#\LinqMethodQuerySystax\LinqMethodQuerySystax\obj\Debug\LinqMethodQuerySystax.exe
+C:\Users\301089027\Desktop\C#\LinqMethodQuerySystax\LinqMethodQuerySystax\obj\Debug\LinqMethodQuerySystax.pdb

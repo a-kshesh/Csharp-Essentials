@@ -1,0 +1,7 @@
+C:\Users\301089027\Desktop\C#\LinqQuerySyntax\LinqQuerySyntax\bin\Debug\LinqQuerySyntax.exe.config
+C:\Users\301089027\Desktop\C#\LinqQuerySyntax\LinqQuerySyntax\bin\Debug\LinqQuerySyntax.exe
+C:\Users\301089027\Desktop\C#\LinqQuerySyntax\LinqQuerySyntax\bin\Debug\LinqQuerySyntax.pdb
+C:\Users\301089027\Desktop\C#\LinqQuerySyntax\LinqQuerySyntax\obj\Debug\LinqQuerySyntax.csprojAssemblyReference.cache
+C:\Users\301089027\Desktop\C#\LinqQuerySyntax\LinqQuerySyntax\obj\Debug\LinqQuerySyntax.csproj.CoreCompileInputs.cache
+C:\Users\301089027\Desktop\C#\LinqQuerySyntax\LinqQuerySyntax\obj\Debug\LinqQuerySyntax.exe
+C:\Users\301089027\Desktop\C#\LinqQuerySyntax\LinqQuerySyntax\obj\Debug\LinqQuerySyntax.pdb

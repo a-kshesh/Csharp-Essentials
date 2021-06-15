@@ -1,0 +1,11 @@
+D:\College\SEM-1\programming language\Week-2\Medal\Medal\bin\Debug\netcoreapp2.1\Medal.deps.json
+D:\College\SEM-1\programming language\Week-2\Medal\Medal\bin\Debug\netcoreapp2.1\Medal.runtimeconfig.json
+D:\College\SEM-1\programming language\Week-2\Medal\Medal\bin\Debug\netcoreapp2.1\Medal.runtimeconfig.dev.json
+D:\College\SEM-1\programming language\Week-2\Medal\Medal\bin\Debug\netcoreapp2.1\Medal.dll
+D:\College\SEM-1\programming language\Week-2\Medal\Medal\bin\Debug\netcoreapp2.1\Medal.pdb
+D:\College\SEM-1\programming language\Week-2\Medal\Medal\obj\Debug\netcoreapp2.1\Medal.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\Week-2\Medal\Medal\obj\Debug\netcoreapp2.1\Medal.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\Week-2\Medal\Medal\obj\Debug\netcoreapp2.1\Medal.AssemblyInfoInputs.cache
+D:\College\SEM-1\programming language\Week-2\Medal\Medal\obj\Debug\netcoreapp2.1\Medal.AssemblyInfo.cs
+D:\College\SEM-1\programming language\Week-2\Medal\Medal\obj\Debug\netcoreapp2.1\Medal.dll
+D:\College\SEM-1\programming language\Week-2\Medal\Medal\obj\Debug\netcoreapp2.1\Medal.pdb

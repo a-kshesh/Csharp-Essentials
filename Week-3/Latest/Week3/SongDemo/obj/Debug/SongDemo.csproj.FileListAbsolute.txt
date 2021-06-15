@@ -1,0 +1,7 @@
+C:\Users\301089027\Desktop\Week3\SongDemo\bin\Debug\SongDemo.exe.config
+C:\Users\301089027\Desktop\Week3\SongDemo\bin\Debug\SongDemo.exe
+C:\Users\301089027\Desktop\Week3\SongDemo\bin\Debug\SongDemo.pdb
+C:\Users\301089027\Desktop\Week3\SongDemo\obj\Debug\SongDemo.csprojAssemblyReference.cache
+C:\Users\301089027\Desktop\Week3\SongDemo\obj\Debug\SongDemo.csproj.CoreCompileInputs.cache
+C:\Users\301089027\Desktop\Week3\SongDemo\obj\Debug\SongDemo.exe
+C:\Users\301089027\Desktop\Week3\SongDemo\obj\Debug\SongDemo.pdb

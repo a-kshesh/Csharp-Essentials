@@ -1,0 +1,6 @@
+C:\Users\npersh\Desktop\Week01\DateDemo\bin\Debug\DateDemo.exe.config
+C:\Users\npersh\Desktop\Week01\DateDemo\bin\Debug\DateDemo.exe
+C:\Users\npersh\Desktop\Week01\DateDemo\bin\Debug\DateDemo.pdb
+C:\Users\npersh\Desktop\Week01\DateDemo\obj\Debug\DateDemo.csproj.CoreCompileInputs.cache
+C:\Users\npersh\Desktop\Week01\DateDemo\obj\Debug\DateDemo.exe
+C:\Users\npersh\Desktop\Week01\DateDemo\obj\Debug\DateDemo.pdb

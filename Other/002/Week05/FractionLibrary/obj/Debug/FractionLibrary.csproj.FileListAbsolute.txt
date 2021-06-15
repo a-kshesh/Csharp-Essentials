@@ -1,0 +1,6 @@
+C:\Users\npersh\Desktop\Week05\FractionLibrary\bin\Debug\FractionLibrary.dll
+C:\Users\npersh\Desktop\Week05\FractionLibrary\bin\Debug\FractionLibrary.pdb
+C:\Users\npersh\Desktop\Week05\FractionLibrary\obj\Debug\FractionLibrary.csprojAssemblyReference.cache
+C:\Users\npersh\Desktop\Week05\FractionLibrary\obj\Debug\FractionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\npersh\Desktop\Week05\FractionLibrary\obj\Debug\FractionLibrary.dll
+C:\Users\npersh\Desktop\Week05\FractionLibrary\obj\Debug\FractionLibrary.pdb

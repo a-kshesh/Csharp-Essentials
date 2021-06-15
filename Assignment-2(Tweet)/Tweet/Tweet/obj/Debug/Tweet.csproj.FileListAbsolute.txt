@@ -1,0 +1,7 @@
+D:\College\SEM-1\programming language\Assignment-2(Tweet)\Tweet\Tweet\bin\Debug\Tweet.exe.config
+D:\College\SEM-1\programming language\Assignment-2(Tweet)\Tweet\Tweet\bin\Debug\Tweet.exe
+D:\College\SEM-1\programming language\Assignment-2(Tweet)\Tweet\Tweet\bin\Debug\Tweet.pdb
+D:\College\SEM-1\programming language\Assignment-2(Tweet)\Tweet\Tweet\obj\Debug\Tweet.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\Assignment-2(Tweet)\Tweet\Tweet\obj\Debug\Tweet.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\Assignment-2(Tweet)\Tweet\Tweet\obj\Debug\Tweet.exe
+D:\College\SEM-1\programming language\Assignment-2(Tweet)\Tweet\Tweet\obj\Debug\Tweet.pdb

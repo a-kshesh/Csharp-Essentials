@@ -1,0 +1,14 @@
+C:\Users\car13\source\repos\AstronautDemo\AstronautDemo\bin\Debug\AstronautDemo.exe.config
+C:\Users\car13\source\repos\AstronautDemo\AstronautDemo\bin\Debug\AstronautDemo.exe
+C:\Users\car13\source\repos\AstronautDemo\AstronautDemo\bin\Debug\AstronautDemo.pdb
+C:\Users\car13\source\repos\AstronautDemo\AstronautDemo\obj\Debug\AstronautDemo.csprojAssemblyReference.cache
+C:\Users\car13\source\repos\AstronautDemo\AstronautDemo\obj\Debug\AstronautDemo.csproj.CoreCompileInputs.cache
+C:\Users\car13\source\repos\AstronautDemo\AstronautDemo\obj\Debug\AstronautDemo.exe
+C:\Users\car13\source\repos\AstronautDemo\AstronautDemo\obj\Debug\AstronautDemo.pdb
+D:\College\SEM-1\programming language\AstronautDemo\AstronautDemo\bin\Debug\AstronautDemo.exe.config
+D:\College\SEM-1\programming language\AstronautDemo\AstronautDemo\bin\Debug\AstronautDemo.exe
+D:\College\SEM-1\programming language\AstronautDemo\AstronautDemo\bin\Debug\AstronautDemo.pdb
+D:\College\SEM-1\programming language\AstronautDemo\AstronautDemo\obj\Debug\AstronautDemo.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\AstronautDemo\AstronautDemo\obj\Debug\AstronautDemo.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\AstronautDemo\AstronautDemo\obj\Debug\AstronautDemo.exe
+D:\College\SEM-1\programming language\AstronautDemo\AstronautDemo\obj\Debug\AstronautDemo.pdb

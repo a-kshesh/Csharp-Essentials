@@ -1,0 +1,10 @@
+D:\College\SEM-1\programming language\Week-8\RPNCalculatorDemo\RPNCalculatorDemo\obj\Debug\RPNCalculatorDemo.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\Week-8\RPNCalculatorDemo\RPNCalculatorDemo\obj\Debug\RPNCalculatorDemo.Form1.resources
+D:\College\SEM-1\programming language\Week-8\RPNCalculatorDemo\RPNCalculatorDemo\obj\Debug\RPNCalculatorDemo.Properties.Resources.resources
+D:\College\SEM-1\programming language\Week-8\RPNCalculatorDemo\RPNCalculatorDemo\obj\Debug\RPNCalculatorDemo.csproj.GenerateResource.cache
+D:\College\SEM-1\programming language\Week-8\RPNCalculatorDemo\RPNCalculatorDemo\obj\Debug\RPNCalculatorDemo.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\Week-8\RPNCalculatorDemo\RPNCalculatorDemo\bin\Debug\RPNCalculatorDemo.exe.config
+D:\College\SEM-1\programming language\Week-8\RPNCalculatorDemo\RPNCalculatorDemo\bin\Debug\RPNCalculatorDemo.exe
+D:\College\SEM-1\programming language\Week-8\RPNCalculatorDemo\RPNCalculatorDemo\bin\Debug\RPNCalculatorDemo.pdb
+D:\College\SEM-1\programming language\Week-8\RPNCalculatorDemo\RPNCalculatorDemo\obj\Debug\RPNCalculatorDemo.exe
+D:\College\SEM-1\programming language\Week-8\RPNCalculatorDemo\RPNCalculatorDemo\obj\Debug\RPNCalculatorDemo.pdb

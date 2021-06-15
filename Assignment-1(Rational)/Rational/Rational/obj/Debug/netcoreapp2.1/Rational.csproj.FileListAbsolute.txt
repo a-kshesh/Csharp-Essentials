@@ -1,0 +1,11 @@
+D:\College\SEM-1\programming language\Assignment-1(Rational)\Rational\Rational\bin\Debug\netcoreapp2.1\Rational.deps.json
+D:\College\SEM-1\programming language\Assignment-1(Rational)\Rational\Rational\bin\Debug\netcoreapp2.1\Rational.runtimeconfig.json
+D:\College\SEM-1\programming language\Assignment-1(Rational)\Rational\Rational\bin\Debug\netcoreapp2.1\Rational.runtimeconfig.dev.json
+D:\College\SEM-1\programming language\Assignment-1(Rational)\Rational\Rational\bin\Debug\netcoreapp2.1\Rational.dll
+D:\College\SEM-1\programming language\Assignment-1(Rational)\Rational\Rational\bin\Debug\netcoreapp2.1\Rational.pdb
+D:\College\SEM-1\programming language\Assignment-1(Rational)\Rational\Rational\obj\Debug\netcoreapp2.1\Rational.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\Assignment-1(Rational)\Rational\Rational\obj\Debug\netcoreapp2.1\Rational.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\Assignment-1(Rational)\Rational\Rational\obj\Debug\netcoreapp2.1\Rational.AssemblyInfoInputs.cache
+D:\College\SEM-1\programming language\Assignment-1(Rational)\Rational\Rational\obj\Debug\netcoreapp2.1\Rational.AssemblyInfo.cs
+D:\College\SEM-1\programming language\Assignment-1(Rational)\Rational\Rational\obj\Debug\netcoreapp2.1\Rational.dll
+D:\College\SEM-1\programming language\Assignment-1(Rational)\Rational\Rational\obj\Debug\netcoreapp2.1\Rational.pdb

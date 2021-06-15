@@ -1,0 +1,7 @@
+C:\Users\npersh\Desktop\Week04\ComplexDemo\bin\Debug\ComplexDemo.exe.config
+C:\Users\npersh\Desktop\Week04\ComplexDemo\bin\Debug\ComplexDemo.exe
+C:\Users\npersh\Desktop\Week04\ComplexDemo\bin\Debug\ComplexDemo.pdb
+C:\Users\npersh\Desktop\Week04\ComplexDemo\obj\Debug\ComplexDemo.csprojAssemblyReference.cache
+C:\Users\npersh\Desktop\Week04\ComplexDemo\obj\Debug\ComplexDemo.csproj.CoreCompileInputs.cache
+C:\Users\npersh\Desktop\Week04\ComplexDemo\obj\Debug\ComplexDemo.exe
+C:\Users\npersh\Desktop\Week04\ComplexDemo\obj\Debug\ComplexDemo.pdb

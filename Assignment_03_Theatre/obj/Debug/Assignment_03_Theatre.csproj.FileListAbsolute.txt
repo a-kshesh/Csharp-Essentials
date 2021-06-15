@@ -1,0 +1,7 @@
+D:\Centennial Study\Sem 1\Progrmmning 2\Codes\Assignment_03_Theatre\obj\Debug\Assignment_03_Theatre.csprojAssemblyReference.cache
+D:\Centennial Study\Sem 1\Progrmmning 2\Codes\Assignment_03_Theatre\obj\Debug\Assignment_03_Theatre.csproj.CoreCompileInputs.cache
+D:\Centennial Study\Sem 1\Progrmmning 2\Codes\Assignment_03_Theatre\bin\Debug\Assignment_03_Theatre.exe.config
+D:\Centennial Study\Sem 1\Progrmmning 2\Codes\Assignment_03_Theatre\bin\Debug\Assignment_03_Theatre.exe
+D:\Centennial Study\Sem 1\Progrmmning 2\Codes\Assignment_03_Theatre\bin\Debug\Assignment_03_Theatre.pdb
+D:\Centennial Study\Sem 1\Progrmmning 2\Codes\Assignment_03_Theatre\obj\Debug\Assignment_03_Theatre.exe
+D:\Centennial Study\Sem 1\Progrmmning 2\Codes\Assignment_03_Theatre\obj\Debug\Assignment_03_Theatre.pdb

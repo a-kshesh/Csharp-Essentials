@@ -1,0 +1,10 @@
+D:\College\SEM-1\programming language\Week-7\FractionCalculatorDemo\FractionCalculatorDemo\obj\Debug\FractionCalculatorDemo.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\Week-7\FractionCalculatorDemo\FractionCalculatorDemo\obj\Debug\FractionCalculatorDemo.Form1.resources
+D:\College\SEM-1\programming language\Week-7\FractionCalculatorDemo\FractionCalculatorDemo\obj\Debug\FractionCalculatorDemo.Properties.Resources.resources
+D:\College\SEM-1\programming language\Week-7\FractionCalculatorDemo\FractionCalculatorDemo\obj\Debug\FractionCalculatorDemo.csproj.GenerateResource.cache
+D:\College\SEM-1\programming language\Week-7\FractionCalculatorDemo\FractionCalculatorDemo\obj\Debug\FractionCalculatorDemo.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\Week-7\FractionCalculatorDemo\FractionCalculatorDemo\bin\Debug\FractionCalculatorDemo.exe.config
+D:\College\SEM-1\programming language\Week-7\FractionCalculatorDemo\FractionCalculatorDemo\bin\Debug\FractionCalculatorDemo.exe
+D:\College\SEM-1\programming language\Week-7\FractionCalculatorDemo\FractionCalculatorDemo\bin\Debug\FractionCalculatorDemo.pdb
+D:\College\SEM-1\programming language\Week-7\FractionCalculatorDemo\FractionCalculatorDemo\obj\Debug\FractionCalculatorDemo.exe
+D:\College\SEM-1\programming language\Week-7\FractionCalculatorDemo\FractionCalculatorDemo\obj\Debug\FractionCalculatorDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\npersh\Desktop\Week01\CarDemo\bin\Debug\CarDemo.exe.config
+C:\Users\npersh\Desktop\Week01\CarDemo\bin\Debug\CarDemo.exe
+C:\Users\npersh\Desktop\Week01\CarDemo\bin\Debug\CarDemo.pdb
+C:\Users\npersh\Desktop\Week01\CarDemo\obj\Debug\CarDemo.csprojResolveAssemblyReference.cache
+C:\Users\npersh\Desktop\Week01\CarDemo\obj\Debug\CarDemo.csproj.CoreCompileInputs.cache
+C:\Users\npersh\Desktop\Week01\CarDemo\obj\Debug\CarDemo.exe
+C:\Users\npersh\Desktop\Week01\CarDemo\obj\Debug\CarDemo.pdb

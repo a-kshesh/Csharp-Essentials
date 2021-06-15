@@ -1,0 +1,7 @@
+D:\College\SEM-1\programming language\Astronot\Astronot\bin\Debug\Astronot.exe.config
+D:\College\SEM-1\programming language\Astronot\Astronot\bin\Debug\Astronot.exe
+D:\College\SEM-1\programming language\Astronot\Astronot\bin\Debug\Astronot.pdb
+D:\College\SEM-1\programming language\Astronot\Astronot\obj\Debug\Astronot.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\Astronot\Astronot\obj\Debug\Astronot.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\Astronot\Astronot\obj\Debug\Astronot.exe
+D:\College\SEM-1\programming language\Astronot\Astronot\obj\Debug\Astronot.pdb

@@ -1,0 +1,10 @@
+D:\College\SEM-1\programming language\Week-7\CalculatorDemo\CalculatorDemo\bin\Debug\CalculatorDemo.exe.config
+D:\College\SEM-1\programming language\Week-7\CalculatorDemo\CalculatorDemo\bin\Debug\CalculatorDemo.exe
+D:\College\SEM-1\programming language\Week-7\CalculatorDemo\CalculatorDemo\bin\Debug\CalculatorDemo.pdb
+D:\College\SEM-1\programming language\Week-7\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\Week-7\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.Form1.resources
+D:\College\SEM-1\programming language\Week-7\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.Properties.Resources.resources
+D:\College\SEM-1\programming language\Week-7\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.csproj.GenerateResource.cache
+D:\College\SEM-1\programming language\Week-7\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\Week-7\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.exe
+D:\College\SEM-1\programming language\Week-7\CalculatorDemo\CalculatorDemo\obj\Debug\CalculatorDemo.pdb

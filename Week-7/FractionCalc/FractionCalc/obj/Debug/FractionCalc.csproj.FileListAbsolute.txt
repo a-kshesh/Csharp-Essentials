@@ -1,0 +1,10 @@
+D:\College\SEM-1\programming language\Week-7\FractionCalc\FractionCalc\bin\Debug\FractionCalc.exe.config
+D:\College\SEM-1\programming language\Week-7\FractionCalc\FractionCalc\bin\Debug\FractionCalc.exe
+D:\College\SEM-1\programming language\Week-7\FractionCalc\FractionCalc\bin\Debug\FractionCalc.pdb
+D:\College\SEM-1\programming language\Week-7\FractionCalc\FractionCalc\obj\Debug\FractionCalc.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\Week-7\FractionCalc\FractionCalc\obj\Debug\FractionCalc.Form1.resources
+D:\College\SEM-1\programming language\Week-7\FractionCalc\FractionCalc\obj\Debug\FractionCalc.Properties.Resources.resources
+D:\College\SEM-1\programming language\Week-7\FractionCalc\FractionCalc\obj\Debug\FractionCalc.csproj.GenerateResource.cache
+D:\College\SEM-1\programming language\Week-7\FractionCalc\FractionCalc\obj\Debug\FractionCalc.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\Week-7\FractionCalc\FractionCalc\obj\Debug\FractionCalc.exe
+D:\College\SEM-1\programming language\Week-7\FractionCalc\FractionCalc\obj\Debug\FractionCalc.pdb

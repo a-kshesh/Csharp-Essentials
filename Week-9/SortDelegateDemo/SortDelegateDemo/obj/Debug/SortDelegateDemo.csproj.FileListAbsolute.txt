@@ -1,0 +1,7 @@
+D:\College\SEM-1\programming language\Week-9\SortDelegateDemo\SortDelegateDemo\bin\Debug\SortDelegateDemo.exe.config
+D:\College\SEM-1\programming language\Week-9\SortDelegateDemo\SortDelegateDemo\bin\Debug\SortDelegateDemo.exe
+D:\College\SEM-1\programming language\Week-9\SortDelegateDemo\SortDelegateDemo\bin\Debug\SortDelegateDemo.pdb
+D:\College\SEM-1\programming language\Week-9\SortDelegateDemo\SortDelegateDemo\obj\Debug\SortDelegateDemo.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\Week-9\SortDelegateDemo\SortDelegateDemo\obj\Debug\SortDelegateDemo.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\Week-9\SortDelegateDemo\SortDelegateDemo\obj\Debug\SortDelegateDemo.exe
+D:\College\SEM-1\programming language\Week-9\SortDelegateDemo\SortDelegateDemo\obj\Debug\SortDelegateDemo.pdb

@@ -1,0 +1,16 @@
+C:\Users\npersh\Desktop\Week05\FractionUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\npersh\Desktop\Week05\FractionUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\npersh\Desktop\Week05\FractionUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\npersh\Desktop\Week05\FractionUnitTestProject\bin\Debug\FractionUnitTestProject.dll
+C:\Users\npersh\Desktop\Week05\FractionUnitTestProject\bin\Debug\FractionUnitTestProject.pdb
+C:\Users\npersh\Desktop\Week05\FractionUnitTestProject\bin\Debug\FractionLibrary.dll
+C:\Users\npersh\Desktop\Week05\FractionUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\npersh\Desktop\Week05\FractionUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\npersh\Desktop\Week05\FractionUnitTestProject\bin\Debug\FractionLibrary.pdb
+C:\Users\npersh\Desktop\Week05\FractionUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\npersh\Desktop\Week05\FractionUnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\npersh\Desktop\Week05\FractionUnitTestProject\obj\Debug\FractionUnitTestProject.csprojAssemblyReference.cache
+C:\Users\npersh\Desktop\Week05\FractionUnitTestProject\obj\Debug\FractionUnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\npersh\Desktop\Week05\FractionUnitTestProject\obj\Debug\FractionUnitTestProject.csproj.CopyComplete
+C:\Users\npersh\Desktop\Week05\FractionUnitTestProject\obj\Debug\FractionUnitTestProject.dll
+C:\Users\npersh\Desktop\Week05\FractionUnitTestProject\obj\Debug\FractionUnitTestProject.pdb

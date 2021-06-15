@@ -1,0 +1,10 @@
+C:\Users\car13\source\repos\PictureBoxDemo\PictureBoxDemo\obj\Debug\PictureBoxDemo.csprojAssemblyReference.cache
+C:\Users\car13\source\repos\PictureBoxDemo\PictureBoxDemo\obj\Debug\PictureBoxDemo.Form1.resources
+C:\Users\car13\source\repos\PictureBoxDemo\PictureBoxDemo\obj\Debug\PictureBoxDemo.Properties.Resources.resources
+C:\Users\car13\source\repos\PictureBoxDemo\PictureBoxDemo\obj\Debug\PictureBoxDemo.csproj.GenerateResource.cache
+C:\Users\car13\source\repos\PictureBoxDemo\PictureBoxDemo\obj\Debug\PictureBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\car13\source\repos\PictureBoxDemo\PictureBoxDemo\bin\Debug\PictureBoxDemo.exe.config
+C:\Users\car13\source\repos\PictureBoxDemo\PictureBoxDemo\bin\Debug\PictureBoxDemo.exe
+C:\Users\car13\source\repos\PictureBoxDemo\PictureBoxDemo\bin\Debug\PictureBoxDemo.pdb
+C:\Users\car13\source\repos\PictureBoxDemo\PictureBoxDemo\obj\Debug\PictureBoxDemo.exe
+C:\Users\car13\source\repos\PictureBoxDemo\PictureBoxDemo\obj\Debug\PictureBoxDemo.pdb

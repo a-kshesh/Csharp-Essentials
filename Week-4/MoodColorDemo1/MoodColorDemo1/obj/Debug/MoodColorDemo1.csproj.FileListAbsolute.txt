@@ -1,0 +1,10 @@
+D:\College\SEM-1\programming language\Week-4\MoodColorDemo1\MoodColorDemo1\obj\Debug\MoodColorDemo1.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\Week-4\MoodColorDemo1\MoodColorDemo1\obj\Debug\MoodColorDemo1.Properties.Resources.resources
+D:\College\SEM-1\programming language\Week-4\MoodColorDemo1\MoodColorDemo1\obj\Debug\MoodColorDemo1.csproj.GenerateResource.cache
+D:\College\SEM-1\programming language\Week-4\MoodColorDemo1\MoodColorDemo1\obj\Debug\MoodColorDemo1.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\Week-4\MoodColorDemo1\MoodColorDemo1\obj\Debug\MOodColorDemo1.Form1.resources
+D:\College\SEM-1\programming language\Week-4\MoodColorDemo1\MoodColorDemo1\bin\Debug\MoodColorDemo1.exe.config
+D:\College\SEM-1\programming language\Week-4\MoodColorDemo1\MoodColorDemo1\bin\Debug\MoodColorDemo1.exe
+D:\College\SEM-1\programming language\Week-4\MoodColorDemo1\MoodColorDemo1\bin\Debug\MoodColorDemo1.pdb
+D:\College\SEM-1\programming language\Week-4\MoodColorDemo1\MoodColorDemo1\obj\Debug\MoodColorDemo1.exe
+D:\College\SEM-1\programming language\Week-4\MoodColorDemo1\MoodColorDemo1\obj\Debug\MoodColorDemo1.pdb

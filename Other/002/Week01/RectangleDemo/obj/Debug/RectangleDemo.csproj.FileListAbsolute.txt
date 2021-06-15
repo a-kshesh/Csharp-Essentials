@@ -1,0 +1,6 @@
+C:\Users\npersh\Desktop\Week01\RectangleDemo\bin\Debug\RectangleDemo.exe.config
+C:\Users\npersh\Desktop\Week01\RectangleDemo\bin\Debug\RectangleDemo.exe
+C:\Users\npersh\Desktop\Week01\RectangleDemo\bin\Debug\RectangleDemo.pdb
+C:\Users\npersh\Desktop\Week01\RectangleDemo\obj\Debug\RectangleDemo.csproj.CoreCompileInputs.cache
+C:\Users\npersh\Desktop\Week01\RectangleDemo\obj\Debug\RectangleDemo.exe
+C:\Users\npersh\Desktop\Week01\RectangleDemo\obj\Debug\RectangleDemo.pdb

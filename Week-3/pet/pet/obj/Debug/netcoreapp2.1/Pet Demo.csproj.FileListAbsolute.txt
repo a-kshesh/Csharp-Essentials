@@ -1,0 +1,11 @@
+D:\College\SEM-1\programming language\Week-3\pet\pet\bin\Debug\netcoreapp2.1\Pet Demo.deps.json
+D:\College\SEM-1\programming language\Week-3\pet\pet\bin\Debug\netcoreapp2.1\Pet Demo.runtimeconfig.json
+D:\College\SEM-1\programming language\Week-3\pet\pet\bin\Debug\netcoreapp2.1\Pet Demo.runtimeconfig.dev.json
+D:\College\SEM-1\programming language\Week-3\pet\pet\bin\Debug\netcoreapp2.1\Pet Demo.dll
+D:\College\SEM-1\programming language\Week-3\pet\pet\bin\Debug\netcoreapp2.1\Pet Demo.pdb
+D:\College\SEM-1\programming language\Week-3\pet\pet\obj\Debug\netcoreapp2.1\Pet Demo.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\Week-3\pet\pet\obj\Debug\netcoreapp2.1\Pet Demo.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\Week-3\pet\pet\obj\Debug\netcoreapp2.1\Pet Demo.AssemblyInfoInputs.cache
+D:\College\SEM-1\programming language\Week-3\pet\pet\obj\Debug\netcoreapp2.1\Pet Demo.AssemblyInfo.cs
+D:\College\SEM-1\programming language\Week-3\pet\pet\obj\Debug\netcoreapp2.1\Pet Demo.dll
+D:\College\SEM-1\programming language\Week-3\pet\pet\obj\Debug\netcoreapp2.1\Pet Demo.pdb

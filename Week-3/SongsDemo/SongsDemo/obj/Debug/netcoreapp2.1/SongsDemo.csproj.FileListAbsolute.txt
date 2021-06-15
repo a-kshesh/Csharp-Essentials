@@ -1,0 +1,11 @@
+D:\College\SEM-1\programming language\Week-3\SongsDemo\SongsDemo\bin\Debug\netcoreapp2.1\SongsDemo.deps.json
+D:\College\SEM-1\programming language\Week-3\SongsDemo\SongsDemo\bin\Debug\netcoreapp2.1\SongsDemo.runtimeconfig.json
+D:\College\SEM-1\programming language\Week-3\SongsDemo\SongsDemo\bin\Debug\netcoreapp2.1\SongsDemo.runtimeconfig.dev.json
+D:\College\SEM-1\programming language\Week-3\SongsDemo\SongsDemo\bin\Debug\netcoreapp2.1\SongsDemo.dll
+D:\College\SEM-1\programming language\Week-3\SongsDemo\SongsDemo\bin\Debug\netcoreapp2.1\SongsDemo.pdb
+D:\College\SEM-1\programming language\Week-3\SongsDemo\SongsDemo\obj\Debug\netcoreapp2.1\SongsDemo.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\Week-3\SongsDemo\SongsDemo\obj\Debug\netcoreapp2.1\SongsDemo.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\Week-3\SongsDemo\SongsDemo\obj\Debug\netcoreapp2.1\SongsDemo.AssemblyInfoInputs.cache
+D:\College\SEM-1\programming language\Week-3\SongsDemo\SongsDemo\obj\Debug\netcoreapp2.1\SongsDemo.AssemblyInfo.cs
+D:\College\SEM-1\programming language\Week-3\SongsDemo\SongsDemo\obj\Debug\netcoreapp2.1\SongsDemo.dll
+D:\College\SEM-1\programming language\Week-3\SongsDemo\SongsDemo\obj\Debug\netcoreapp2.1\SongsDemo.pdb

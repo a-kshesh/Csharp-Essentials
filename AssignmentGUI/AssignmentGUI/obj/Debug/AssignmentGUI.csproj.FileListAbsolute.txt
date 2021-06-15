@@ -1,0 +1,12 @@
+D:\College\SEM-1\programming language\AssignmentGUI\AssignmentGUI\bin\Debug\AssignmentGUI.exe.config
+D:\College\SEM-1\programming language\AssignmentGUI\AssignmentGUI\bin\Debug\AssignmentGUI.exe
+D:\College\SEM-1\programming language\AssignmentGUI\AssignmentGUI\bin\Debug\AssignmentGUI.pdb
+D:\College\SEM-1\programming language\AssignmentGUI\AssignmentGUI\obj\Debug\AssignmentGUI.csprojAssemblyReference.cache
+D:\College\SEM-1\programming language\AssignmentGUI\AssignmentGUI\obj\Debug\AssignmentGUI.AddSongs.resources
+D:\College\SEM-1\programming language\AssignmentGUI\AssignmentGUI\obj\Debug\AssignmentGUI.Properties.Resources.resources
+D:\College\SEM-1\programming language\AssignmentGUI\AssignmentGUI\obj\Debug\AssignmentGUI.csproj.GenerateResource.cache
+D:\College\SEM-1\programming language\AssignmentGUI\AssignmentGUI\obj\Debug\AssignmentGUI.csproj.CoreCompileInputs.cache
+D:\College\SEM-1\programming language\AssignmentGUI\AssignmentGUI\obj\Debug\AssignmentGUI.exe
+D:\College\SEM-1\programming language\AssignmentGUI\AssignmentGUI\obj\Debug\AssignmentGUI.pdb
+D:\College\SEM-1\programming language\AssignmentGUI\AssignmentGUI\obj\Debug\AssignmentGUI.MainForm.resources
+D:\College\SEM-1\programming language\AssignmentGUI\AssignmentGUI\obj\Debug\AssignmentGUI.SplashForm.resources
